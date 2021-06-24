@@ -1,7 +1,7 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://logphile.com/logphile-100doc/)
 
-# New post title here
+# Day 1
 
 ## Introduction
 
@@ -20,4 +20,5 @@ Today was all about setting up Github for this project (100DaysOfCloud), creatin
 Below is a link to the tweet for my Day 1 work. I have also included a more in-depth post on my blog.
 
 [Tweet](https://twitter.com/LogPhile/status/1408113211199602700)
+
 [Blog](https://logphile.com/2021/06/24/100daysofcloud-initial-setup/) 
