@@ -1,5 +1,5 @@
-**Add a cover photo like:**
-![placeholder image](https://logphile.com/logphile-100doc/)
+
+![placeholder image](https://logphile.com/phil_portrait-2/)
 
 # Day 1
 
