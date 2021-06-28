@@ -1,52 +1,26 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Day 2 - Create an Azure AD User & Enable MFA
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today is Day 2 of 100 Days of Cloud. While studying for AZ-104 I am thinking about and researching the best way to go about the daily challenges. Until then I will be borrowing ideas and tasks from the project authors and other sources. 
+
+Today's task is from Gwyneth Pena via her Github (SEC04-AZ100 - Create an Azure AD user).
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Familiarity with the Azure portal, Active Directory and enabling MFA within an Azure subscription.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+This is a common task that every System Administrator will perform. Companies have employees (users). Users will need accounts to access resources.
 
-## Cloud Research
+## Objective Demonstration & Screenshots
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+The daily objective, notes and screenshots can be seen in the blog post below.
 
-## Try yourself
+[Tweet](https://twitter.com/LogPhile/status/1409629203801075733)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Blog](https://logphile.com/2021/06/29/100daysofcloud-day-2-create-an-azure-ad-user/)
