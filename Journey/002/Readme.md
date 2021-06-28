@@ -1,26 +1,23 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# Day 2
+# Day 2 - Create an Azure AD User & Enable MFA
 
 ## Introduction
 
-Today is Day 2 of 100 Days of Cloud. 
+Today is Day 2 of 100 Days of Cloud. While studying for AZ-104 I am thinking about and researching the best way to go about the daily challenges. Until then I will be borrowing ideas and tasks from the project authors and other sources. 
 
-While studying for the AZ-104 exam I am thinking about and researching the best way to go about the daily challenges. Until I figure out the best way to go about it I will be borrowing ideas and tasks from the project authors and others.
-
-Today's task is from Gwyneth Pena via her Github.
+Today's task is from Gwyneth Pena via her Github (SEC04-AZ100 - Create an Azure AD user).
 
 ## Prerequisite
 
-Familiarity with the Azure portal, user creation and an understanding of Multi-Factor Authentication (MFA).
+Familiarity with the Azure portal, Active Directory and enabling MFA within an Azure subscription.
 
-## Social Proof
+## Use Case
 
-Below is a link to a post I created with an in-depth walkthrough showing my work along with screenshots. In the post I walk through creating a user and enabling MFA for the subscription.
+This is a common task that every System Administrator will perform. Companies have employees (users). Users will need accounts to access resources.
 
-Also provided is a link to the tweet for my Day 2 work. I have also included a more in-depth post on my blog.
+## Objective Demonstration & Screenshots
 
-[Tweet](https://twitter.com/LogPhile/status/1408113211199602700)
+The daily objective, notes and screenshots can be seen in the blog post below.
 
-[Blog](https://logphile.com/2021/06/24/100daysofcloud-initial-setup/) 
+[Tweet](https://twitter.com/LogPhile/status/1409629203801075733)
+
+[Blog](https://logphile.com/2021/06/29/100daysofcloud-day-2-create-an-azure-ad-user/)
