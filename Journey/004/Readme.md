@@ -1,52 +1,21 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Day 4 - SSH Into New Linux VM 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today is Day 4 of 100 Days of Cloud. Today's post is not cloud-related per-se. While trying to remote into the new Linunx VM created in Azure I ran into an interesting problem regarding SSH, mRemoteNG and converting the Azure PEM key into a PPK (PuTTY Private Key).
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Familiarity with SSH, PuTTY and mRemoteNG.
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Being able to establish an SSH connection with a VM is important but also being able to troubleshoot issues with SSH and remote connections to a VM is even more important.
 
-## Cloud Research
+## Objective Demonstration & Screenshots
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+The daily objective, notes and screenshots can be seen in the blog post below.
 
-## Try yourself
+[Tweet](https://twitter.com/LogPhile/status/1412168212507250692)
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Blog](https://logphile.com/2021/07/06/100daysofcloud-day-4-ssh-linux-vm/)
