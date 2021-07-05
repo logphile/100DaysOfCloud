@@ -16,6 +16,6 @@ Creating, modifying and managing VMs in the cloud is kind of the point, right?
 
 The daily objective, notes and screenshots can be seen in the blog post below.
 
-[Tweet](https://twitter.com/LogPhile/status/1409629203801075733)
+[Tweet](https://twitter.com/LogPhile/status/1412165653566472199)
 
 [Blog](https://logphile.com/2021/07/05/100daysofcloud-day-3-create-linux-vm/)
