@@ -1,52 +1,21 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+Day 7 - Deploying AADDS
 
-# New post title here
+Introduction
 
-## Introduction
+Today is Day 7 of 100 Days of Cloud. Today's post is about deploying the Azure Active Directory Domain Services (AADDS). The prep work has been done and now AADDS can be deployed successfully with minimal hiccups.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Prerequisite
 
-## Prerequisite
+Knowledge and familiarity with the Azure portal, AADDS, Azure Vnets and subnets, and a basic understanding of DNS.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Use Case
 
-## Use Case
+The best way to think about AADDS is rather than have physical domain controllers on prem that need upgrades, maintenance, patching, hardware replacement, etc.; AADDS gives you cloud domain controllers that just work with none of or very little of the aforementioned responsibilities that came with an on-prem solution.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Objective Demonstration & Screenshots
 
-## Cloud Research
+The daily objective, notes and screenshots can be seen in the blog post below.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+[Tweet](https://twitter.com/LogPhile/status/1421140890274471943)
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Blog](logphile.com/2021/07/28/100daysofcloud-day-6-use-a-custom-domain-name-with-aadds-3-of-6/)
