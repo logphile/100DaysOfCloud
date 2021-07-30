@@ -18,4 +18,4 @@ The daily objective, notes and screenshots can be seen in the blog post below.
 
 [Tweet](https://twitter.com/LogPhile/status/1421140890274471943)
 
-[Blog](logphile.com/2021/07/28/100daysofcloud-day-6-use-a-custom-domain-name-with-aadds-3-of-6/)
+[Blog](https://logphile.com/2021/07/28/100daysofcloud-day-6-use-a-custom-domain-name-with-aadds-3-of-4/)
