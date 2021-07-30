@@ -16,6 +16,6 @@ Unless a company wants to use the default .onmicrosoft.com domain (which they wo
 
 The daily objective, notes and screenshots can be seen in the blog post below.
 
-[Tweet](https://twitter.com/LogPhile/status/1415670026498097152)
+[Tweet](https://twitter.com/LogPhile/status/1421139982937477127)
 
 [Blog](https://logphile.com/2021/07/15/100daysofcloud-day-6-use-a-custom-domain-name-with-aadds-2-of-6/)
