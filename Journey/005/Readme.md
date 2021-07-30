@@ -16,6 +16,6 @@ Active Directory is and has been very popular for a long time. Azure Active Dire
 
 The daily objective, notes and screenshots can be seen in the blog post below.
 
-[Tweet](https://twitter.com/LogPhile/status/1412168212507250692)
+[Tweet](https://twitter.com/LogPhile/status/1415059051923353603)
 
-[Blog](https://logphile.com/2021/07/12/100daysofcloud-day-5-preparing-azure-for-aads-1-of-6/)
+[Blog](https://logphile.com/2021/07/12/100daysofcloud-day-5-preparing-azure-for-aads-1-of-4/)
