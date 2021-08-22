@@ -16,6 +16,6 @@ To make users' lives easier AD Connect can be used to synchronize password hashe
 
 The daily objective, notes and screenshots can be seen in the blog post below.
 
-[Tweet](https://twitter.com/LogPhile/status/1429263833567277064)
+[Tweet](https://twitter.com/LogPhile/status/1421142244233564164)
 
 [Blog](https://logphile.com/2021/07/29/100daysofcloud-day-8-setup-test-ad-connect-4-of-4/)
